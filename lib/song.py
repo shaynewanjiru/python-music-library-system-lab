@@ -46,3 +46,6 @@ class Song():
             artist_count += 1
         else:
             artist_count = 1   
+
+Song = {"Rap": 5, "Rock": 1, "Country": 3}  
+Song = {"Beyonce": 17, "Jay-Z": 40}          
